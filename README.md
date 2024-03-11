@@ -86,5 +86,8 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 #### 4) Summary statistics for ‘daily activity’ dataframe:
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="42%">
 
+#### 5) Summary statistics for ‘daily sleep’ dataframe:
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/f1a37ad8-a2bc-4810-917a-88ca791ca6a6" width="42%">
+
 
 
