@@ -32,7 +32,7 @@ The FitBit Fitness Tracker Data used for this analysis was sourced from the prov
 The dataset consists of 18 CSV files, each representing the smart health data from personal fitness trackers used by thirty Fitbit users. The data, collected via a survey of personal tracker data, includes minute-level output for physical activity, heart rate, and sleep monitoring, spanning from March 12, 2016, to May 12, 2016. Key columns include information on daily activity, steps, heart rate, and other relevant metrics.
 
 #### • Licensing, Privacy, Security, and Accessibility:- 
-The usage of the data adheres to the provided license terms, ensuring compliance with legal and ethical considerations. It was provided by Mobius on Kaggle under the CC0: Public Domain Creative Common License. Privacy has been maintained, and personally identifiable information has been excluded to comply with data-privacy regulations.
+The usage of the data adheres to the provided license terms, ensuring compliance with legal and ethical considerations. It was provided by [Mobius](https://www.kaggle.com/arashnic) on Kaggle under the CC0: Public Domain Creative Common License. Privacy has been maintained, and personally identifiable information has been excluded to comply with data-privacy regulations.
 
 #### • Data Integrity Verification:- 
 The integrity of the data has been verified by checking for missing values, inconsistencies, and outliers. Any discrepancies found have been addressed through appropriate cleaning and preprocessing steps.
