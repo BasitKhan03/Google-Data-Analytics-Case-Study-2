@@ -75,7 +75,7 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 
 ### -> Data Observation:
 #### 1) Number of columns and observations in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="80%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="50%">
 
 
 
