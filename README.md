@@ -87,6 +87,6 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="42%">
 
 #### 5) Summary statistics for ‘daily sleep’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/898def36-a789-4c33-8eeb-c527131531cf" width="50%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/898def36-a789-4c33-8eeb-c527131531cf" width="48%">
 
 
