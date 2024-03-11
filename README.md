@@ -65,6 +65,16 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 | 2) | Merge Datasets | Merged ‘hourly_intensity’, ‘hourly_calories’, and ‘hourly_steps’ into one single dataframe ‘hourly_activity’ | Completed |
 | 3) | Clean Column Names | Cleaned column names for each dataframe | Completed |
 | 4) | Remove Null Values | Rows containing Null values are removed for the analysis | Completed |
+| 5) | Remove Duplicate Rows | Duplicate rows are removed for the analysis | Completed |
+| 6) | Exclude Dataset | The sample size of ‘weight’ dataframe is too small for further analysis. Therefore, it will be excluded from further analysis | Completed |
+| 7) | Convert Format | Converted date and time format in ‘daily_activity’, ‘daily_sleep’, and ‘hourly_activity’ dataframes | Completed |
+| 8) | Add Column | Added a column for the day of week in ‘daily_activity’ | Completed |
+| 9) | Add Column | Added a column for finding total active hours from various activity minutes columns in ‘daily_activity’ | Completed |
+| 10) | Transform Data Time Units | Added two columns for calculating total hours asleep and total hours in bed from total minutes in ‘daily_sleep’ | Completed |
+| 11) | Merge Datasets | Merged ‘daily_activity’ and ‘daily_sleep’ dataframes by 'id' column for exploring different relationships between activity and sleep | Completed |
+
+
+
 
 
 
