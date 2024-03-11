@@ -78,7 +78,7 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="50%">
 
 #### 2) Number of unique participants in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="30%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="35%">
 
 
 
