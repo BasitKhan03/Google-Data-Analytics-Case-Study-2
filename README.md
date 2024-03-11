@@ -73,9 +73,9 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 | 10) | Transform Data Time Units | Added two columns for calculating total hours asleep and total hours in bed from total minutes in ‘daily_sleep’ | Completed |
 | 11) | Merge Datasets | Merged ‘daily_activity’ and ‘daily_sleep’ dataframes by 'id' column for exploring different relationships between activity and sleep | Completed |
 
-
-
-
+### -> Data Observation:
+#### 1) Number of columns and observations in each dataframe:
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="250px">
 
 
 
