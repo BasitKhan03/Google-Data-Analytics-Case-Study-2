@@ -105,9 +105,25 @@ It has a negative correlation coefficient of -0.327 which indicates a moderately
 
 The next interesting data to observe is the correlation between the number of hours slept and the number of hours spent in bed.
 
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/b1a91ee4-860c-4ba5-8933-5941ac647e91)
 
+It has a strong positive correlation coefficient of 0.930 which indicates a close relationship between the number of hours slept and the number of hours spent in bed. This suggests that individuals who spend more time in bed also tend to sleep for longer durations. This observation emphasizes the significance of maintaining consistent and sufficient sleep schedules to promote optimal health outcomes.
 
+Now, we will analyze the relationship between the total number of steps taken in a day and calories burned.
 
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/ab64d323-1908-4710-99ce-3fbf622d71d9)
+
+It has a correlation coefficient of 0.592 that indicates a moderate positive relationship between these two variables. This suggests that individuals who take more steps tend to burn more calories. This finding underscores the importance of physical activity in energy expenditure and weight management.
+
+Next, we will delve into the relationship between total active hours and calories burned.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/56ff2763-2f1c-48a5-9364-d005b3bb3c30)
+
+It has a correlation coefficient of 0.138 which suggests a weak positive relationship between these two variables. Additionally, an interesting observation emerges i.e. individuals who have spent 15-19 active hours in a day tend to burn more calories. This implies that extended periods of activity may contribute to higher calorie expenditure. While the correlation is weak, this specific insight sheds light on the potential impact of prolonged activity on energy expenditure.
+
+Furthermore, we will explore the relationship between total time asleep and calories burned.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/8c9953a0-3b5f-4104-8839-5b650de00ec8)
 
 
 
