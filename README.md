@@ -42,14 +42,23 @@ While the FitBit Fitness Tracker Data provides valuable insights into users' hab
 
 ### -> ROCCC analysis:
 1) **Reliability:** The reliability of the dataset is considered LOW due to its collection from a limited sample of 30 individuals, with unknown gender demographics.
+   
 2) **Originality:** The originality of the dataset is rated as LOW as it was sourced from third-party data collection using Amazon Mechanical Turk, limiting its uniqueness.
+   
 3) **Comprehensive:** The dataset's comprehensiveness is assessed as MEDIUM, given its inclusion of multiple fields capturing daily activity intensity, calories expended, daily step counts, sleep duration, and weight records.
+   
 4) **Current:** While the data is 5 years old, it is argued that daily habits may not drastically change over this timeframe, resulting in a MEDIUM rating for currentness.
+   
 5) **Cited:** The dataset benefits from a HIGH rating in terms of citation, as the data collector and source are well-documented, enhancing its credibility.
 
 
 ## Process
-Then, process your data for analysis using the Case Study Roadmap as a guide
+Then, process your data for analysis using the Case Study Roadmap as a guide.
+
+### -> Tools:
+I have utilized `RStudio` to clean the data, organize the various datasets, and create visualizations.
+
+### -> Change Log:
 
 
 
