@@ -78,13 +78,13 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="50%">
 
 #### 2) Number of unique participants in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="35%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="32%">
 
 #### 3) Number of duplicate rows in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5a52dee5-a7ad-4eb2-8aa6-002dabea7339" width="35%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5a52dee5-a7ad-4eb2-8aa6-002dabea7339" width="32%">
 
 #### 4) Summary statistics for ‘daily activity’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="40%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="42%">
 
 
 
