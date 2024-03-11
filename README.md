@@ -77,8 +77,8 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 #### 1) Number of columns and observations in each dataframe:
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="50%">
 
-
-
+#### 2) Number of unique participants in each dataframe:
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/9878c118-680b-478d-a51b-ee36c64d4db8" width="50%">
 
 
 
