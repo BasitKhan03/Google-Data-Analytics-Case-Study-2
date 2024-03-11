@@ -80,6 +80,8 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 #### 2) Number of unique participants in each dataframe:
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="35%">
 
+#### 3) Number of duplicate rows in each dataframe:
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5a52dee5-a7ad-4eb2-8aa6-002dabea7339" width="35%">
 
 
 
