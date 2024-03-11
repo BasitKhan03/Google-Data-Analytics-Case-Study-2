@@ -90,5 +90,5 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/898def36-a789-4c33-8eeb-c527131531cf" width="48%">
 
 #### 6) Summary statistics for ‘hourly activity’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/d2e422d0-f3c0-45af-8612-6970ae23da91" width="53%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/d2e422d0-f3c0-45af-8612-6970ae23da91" width="55%">
 
