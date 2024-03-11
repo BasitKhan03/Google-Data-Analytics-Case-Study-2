@@ -59,6 +59,16 @@ Then, process your data for analysis using the Case Study Roadmap as a guide.
 I have utilized `RStudio` to clean the data, organize the various datasets, and create visualizations.
 
 ### -> Change Log:
+|#|Title|Description|Status|
+| --- | :---: | --- | :---: |
+| 1) | Select Datasets | 6 out of 18 CSV files are selected for the analysis, namely ‘dailyActivity_merged’, ‘sleepDay_merged’, ‘weightLogInfo_merged’, ‘hourlyIntensities_merged’, ‘hourlyCalories_merged’ & ‘hourlySteps_merged’ | Completed |
+| 2) | Merge Datasets | Merged ‘hourly_intensity’, ‘hourly_calories’, and ‘hourly_steps’ into one single dataframe ‘hourly_activity’ | Completed |
+| 3) | Clean Column Names | Cleaned column names for each dataframe | Completed |
+| 4) | Remove Null Values | Rows containing Null values are removed for the analysis | Completed |
+
+
+
+
 
 
 
