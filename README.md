@@ -75,22 +75,22 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 
 ### -> Data Observation:
 #### 1) Number of columns and observations in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="50%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/72b5907e-e824-4a9b-8c36-3fd99061876e" width="52%">
 
 #### 2) Number of unique participants in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="32%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/293c7c7f-fb69-4d7e-bb75-2eeea2d11954" width="34%">
 
 #### 3) Number of duplicate rows in each dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5a52dee5-a7ad-4eb2-8aa6-002dabea7339" width="32%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5a52dee5-a7ad-4eb2-8aa6-002dabea7339" width="34%">
 
 #### 4) Summary statistics for ‘daily activity’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="41%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="43%">
 
 #### 5) Summary statistics for ‘daily sleep’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/898def36-a789-4c33-8eeb-c527131531cf" width="47%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/898def36-a789-4c33-8eeb-c527131531cf" width="49%">
 
 #### 6) Summary statistics for ‘hourly activity’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/d2e422d0-f3c0-45af-8612-6970ae23da91" width="55%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/d2e422d0-f3c0-45af-8612-6970ae23da91" width="57%">
 
 
 ## Analyze & Share
@@ -124,6 +124,74 @@ It has a correlation coefficient of 0.138 which suggests a weak positive relatio
 Furthermore, we will explore the relationship between total time asleep and calories burned.
 
 ![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/8c9953a0-3b5f-4104-8839-5b650de00ec8)
+
+An intriguing observation from the visualization is that, apart from outliers, individuals who slept between 5 and 8 hours tended to burn calories. This suggests a potential association between sleep duration within this range and energy expenditure. While outliers may indicate variability in individual responses, the overall trend highlights the importance of adequate sleep duration in maintaining metabolic processes and supporting overall health.
+
+Next, we will explore the relationship between total active hours and sedentary minutes.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/0d9b721e-9b8b-48a0-b9b1-f30d3f484de6)
+
+It has a correlation coefficient of 0.917 that indicates a strong positive relationship between these two variables. This suggests that individuals who spend more time being active also tend to spend more time in sedentary behaviors. While seemingly counterintuitive, this finding may reflect the natural balance between periods of activity and rest throughout the day. However, it also highlights the potential for prolonged sedentary behavior among those who engage in extensive periods of activity.
+
+Next, we will examine whether the days of the week influenced users' activity levels.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/a8a89211-988c-430c-afe9-724c9f714500)
+
+Despite sedentary activity being predominant on average, there seemed to be no noticeable variations in activity levels across different days of the week, irrespective of the activity type.
+
+To validate this observation, I sought to determine the average number of steps per week among users. The resulting graph reaffirmed the initial observation, indicating relatively consistent step counts throughout most days of the week. However, on Sundays, the number of steps tends to be slightly lower than on other days, possibly due to the weekend holiday. Nevertheless, the data suggests overall consistency in step counts across the remaining days of the week.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/e776de3b-6489-4901-a1d9-4207b4e6d9ea)
+
+Now, we will observe which hours throughout the day exhibited the highest average activity levels.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/6d5b16f4-6d2b-48d2-9e50-9643db604450)
+
+We can observe that the post-work hours, typically from 5 to 7 PM, along with the midday break hours starting at 12 PM, demonstrate the highest levels of activity.
+
+Finally we will explore the relationship between sleep quality and sedentary behavior. To achieve this, we established a threshold of 6 hours to define what constitutes good sleep.
+
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/c7e0efd4-9918-45e1-b5e0-8359adb9b62c)
+
+We can observe that good sleepers typically exhibit a narrower range of sedentary minutes, with the interquartile range (25th to 75th percentile) spanning from approximately 600 to 800 minutes and a lower median. In contrast, poor sleepers tend to have a wider range of sedentary minutes, with their interquartile range extending from around 750 to 1000 minutes. This disparity suggests that good sleepers generally maintain lower levels of sedentary activity compared to poor sleepers.
+
+The presence of outliers in both groups suggests variability in sedentary habits, with good sleepers generally having outliers above the 75th percentile and poor sleepers having few outliers primarily below the 25th percentile. Overall, this analysis suggests a potential association between sleep quality and sedentary behavior, with good sleepers displaying healthier sedentary patterns.
+
+### -> Summary:
+Based on the analysis, we can conclude that:
+•	Individuals who engage in more physical activity tend to spend less time in sedentary behaviors, highlighting the importance of staying active to minimize prolonged periods of sitting and promote overall health.
+
+•	Individuals who spend more time in bed also tend to sleep for longer durations, highlighting the importance of consistent sleep schedules for optimal health.
+
+•	Increased physical activity tends to result in higher calorie expenditure, indicating that individuals who are more physically active burn more calories throughout the day.
+
+•	Individuals who spend 15-19 active hours in a day tend to burn more calories. This suggests that prolonged periods of activity may contribute to higher calorie expenditure.
+
+•	Individuals who slept between 5 and 8 hours tended to burn calories, indicating a potential association between sleep duration within this range and energy expenditure.
+
+•	Individuals who engage in more physical activity also tend to spend more time in sedentary behaviors, indicating a potential trade-off between activity and rest throughout the day.
+
+•	Weekly activity levels show consistency, with slight variations on Sundays, suggesting that overall activity patterns remain relatively stable throughout the week.
+
+•	Peak activity levels are observed during post-work hours (5-7 PM) and midday break hours (12 PM), indicating distinct patterns of activity throughout the day.
+
+•	Good sleepers generally exhibit healthier sedentary patterns compared to poor sleepers, with a lower and narrower range of sedentary minutes.
+
+
+## Act
+Now that you have finished creating your visualizations, act on your findings. Prepare the deliverables you have been asked to create, including the high-level recommendations based on your analysis.
+
+### -> Recommandations:
+Upon recognizing key insights into user behavior and preferences, Bellabeat can implement the following recommendations:
+
+1.	Implement personalized reminders during peak activity hours to encourage users to engage in physical exercise if their calorie goals haven't been met. Additionally, utilize user data to suggest optimal bedtime notifications, ensuring users achieve sufficient rest for overall well-being.
+
+2.	Leverage insights into user behavior, such as the decline in step count on Fridays, to send targeted notifications encouraging sustained physical activity throughout the week. Focus marketing efforts on promoting automatic data collection features, aligning with user preferences for convenience and ease of use.
+
+3.	Introduce gamification elements to incentivize user engagement and goal achievement. Offer rewards or discounts on fitness-related products for meeting daily, weekly, or monthly activity goals, enhancing user motivation and retention. Additionally, consider marketing smart devices like smart scales to automate data collection, addressing user preferences for seamless integration and reducing manual input efforts.
+
+
+
 
 
 
