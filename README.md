@@ -159,6 +159,7 @@ The presence of outliers in both groups suggests variability in sedentary habits
 
 ### -> Summary:
 Based on the analysis, we can conclude that:
+
 •	Individuals who engage in more physical activity tend to spend less time in sedentary behaviors, highlighting the importance of staying active to minimize prolonged periods of sitting and promote overall health.
 
 •	Individuals who spend more time in bed also tend to sleep for longer durations, highlighting the importance of consistent sleep schedules for optimal health.
