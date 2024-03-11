@@ -84,6 +84,7 @@ I have utilized `RStudio` to clean the data, organize the various datasets, and 
 <img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5a52dee5-a7ad-4eb2-8aa6-002dabea7339" width="35%">
 
 #### 4) Summary statistics for ‘daily activity’ dataframe:
-<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/5aae7d4c-8199-444e-bb79-92c4eec2e521" width="35%">
+<img src="https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/12e30dc3-c4fb-4ffc-bfa1-96d60312a9cb" width="40%">
+
 
 
