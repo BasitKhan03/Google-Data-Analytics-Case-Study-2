@@ -99,6 +99,7 @@ Now that your data is stored appropriately and has been prepared for analysis, s
 ### -> Analysis:
 To address our business objective, it would be helpful to visualize key observations regarding trends in smart device utilization. We will first analyze the relationship between steps taken in a day and sedentary minutes.
 
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/18c93db3-ef9d-481c-8b03-ecb4850d0705)
 
 
 
