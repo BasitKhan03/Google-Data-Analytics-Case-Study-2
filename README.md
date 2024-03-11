@@ -15,3 +15,18 @@ Sršen asks you to analyze smart device usage data in order to gain insight into
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
+### -> Business Task: 
+Analyze smart device usage data to understand how consumers use nonBellabeat smart devices. Identify trends, patterns, and preferences among users, including popular features and frequency of use. Select one Bellabeat product to apply these insights and inform marketing strategy for potential growth opportunities in the smart device market
+
+
+## Prepare
+Sršen encourages you to use public data that explores smart device users’ daily habits. Now, prepare your data for analysis using the following Case Study Roadmap as a guide.
+
+### -> Data Sources: 
+For this analysis, we primarily utilized the FitBit Fitness Tracker Data available on Kaggle, provided by Mobius under the CC0: Public Domain Creative Common License. This dataset encompasses smart health data from personal fitness trackers used by thirty Fitbit users. 
+
+
+
+
+
+
