@@ -20,7 +20,7 @@ Analyze smart device usage data to understand how consumers use non-Bellabeat sm
 
 
 ## Prepare
-Sršen encourages you to use public data that explores smart device users’ daily habits. Now, prepare your data for analysis using the following Case Study Roadmap as a guide.
+Sršen encourages you to use public data that explores smart device users’ daily habits. Now, prepare your data for analysis using the Case Study Roadmap as a guide.
 
 ### -> Data Sources: 
 For this analysis, we primarily utilized the FitBit Fitness Tracker Data available on Kaggle, provided by Mobius under the CC0: Public Domain Creative Common License. This dataset encompasses smart health data from personal fitness trackers used by thirty Fitbit users. 
@@ -32,7 +32,7 @@ The FitBit Fitness Tracker Data used for this analysis was sourced from the prov
 The dataset consists of 18 CSV files, each representing the smart health data from personal fitness trackers used by thirty Fitbit users. The data, collected via a survey of personal tracker data, includes minute-level output for physical activity, heart rate, and sleep monitoring, spanning from March 12, 2016, to May 12, 2016. Key columns include information on daily activity, steps, heart rate, and other relevant metrics.
 
 #### • Licensing, Privacy, Security, and Accessibility:- 
-The usage of the data adheres to the provided license terms, ensuring compliance with legal and ethical considerations. It was provided by [Mobius](https://www.kaggle.com/arashnic) on Kaggle under the CC0: Public Domain Creative Common License. Privacy has been maintained, and personally identifiable information has been excluded to comply with data-privacy regulations.
+The usage of the data adheres to the provided license terms, ensuring compliance with legal and ethical considerations. It was provided by [Möbius](https://www.kaggle.com/arashnic) on Kaggle under the CC0: Public Domain Creative Common License. Privacy has been maintained, and personally identifiable information has been excluded to comply with data-privacy regulations.
 
 #### • Data Integrity Verification:- 
 The integrity of the data has been verified by checking for missing values, inconsistencies, and outliers. Any discrepancies found have been addressed through appropriate cleaning and preprocessing steps.
@@ -40,8 +40,16 @@ The integrity of the data has been verified by checking for missing values, inco
 #### • Data Issues:- 
 While the FitBit Fitness Tracker Data provides valuable insights into users' habits, limitations exist due to the small sample size, dataset age, and absence of demographic information. These factors may impact the relevance and applicability of the insights generated for informing marketing strategy recommendations.
 
+### -> ROCCC analysis:
+1) **Reliability:** The reliability of the dataset is considered LOW due to its collection from a limited sample of 30 individuals, with unknown gender demographics.
+2) **Originality:** The originality of the dataset is rated as LOW as it was sourced from third-party data collection using Amazon Mechanical Turk, limiting its uniqueness.
+3) **Comprehensive:** The dataset's comprehensiveness is assessed as MEDIUM, given its inclusion of multiple fields capturing daily activity intensity, calories expended, daily step counts, sleep duration, and weight records.
+4) **Current:** While the data is 5 years old, it is argued that daily habits may not drastically change over this timeframe, resulting in a MEDIUM rating for currentness.
+5) **Cited:** The dataset benefits from a HIGH rating in terms of citation, as the data collector and source are well-documented, enhancing its credibility.
 
 
+## Process
+Then, process your data for analysis using the Case Study Roadmap as a guide
 
 
 
