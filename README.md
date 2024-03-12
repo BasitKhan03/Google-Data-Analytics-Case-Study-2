@@ -103,7 +103,7 @@ To address our business objective, it would be helpful to visualize key observat
 
 It has a negative correlation coefficient of -0.327 which indicates a moderately strong inverse relationship between the number of steps taken in a day and sedentary minutes. This suggests that as the number of steps increases, the amount of time spent in sedentary activities decreases. In practical terms, individuals who engage in more physical activity tend to spend less time in sedentary behaviors, which aligns with recommendations for maintaining an active lifestyle.
 
-The next interesting data to observe is the correlation between the number of hours slept and the number of hours spent in bed.
+The next interesting data to observe is the correlation between the number of minutes slept and the number of minutes spent in bed.
 
 ![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-2/assets/101899595/b1a91ee4-860c-4ba5-8933-5941ac647e91)
 
